@@ -110,6 +110,9 @@
                         <color key="backgroundColor" red="0.83436387777328491" green="0.94656044244766235" blue="0.79711771011352539" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <connections>
+                        <outlet property="btnFalse" destination="glV-Gw-Du7" id="26O-J5-oN4"/>
+                        <outlet property="btnSkip" destination="CP2-ls-J6l" id="dXF-mm-JiY"/>
+                        <outlet property="btnTrue" destination="SSl-z6-0r2" id="rT4-Am-jHx"/>
                         <outlet property="lblCorrectCounter" destination="Nos-va-uss" id="s5Q-hf-m2W"/>
                         <outlet property="lblIncorrectCounter" destination="8X5-2g-Py4" id="I2t-hE-Ppm"/>
                         <outlet property="lblQuizQuestion" destination="v2a-gC-dni" id="DQe-Yi-Y7Z"/>
